@@ -1,0 +1,12 @@
+node_modules/
+out/
+release/
+dist/
+pgdata/
+backups/
+*.dump
+data/*.tmp
+db.json
+.env
+*.log
+.DS_Store

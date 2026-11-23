@@ -1,0 +1,14 @@
+appId: uz.parolsave.app
+productName: parolSave
+directories:
+  output: release
+files:
+  - out/**
+  - package.json
+asarUnpack:
+  - node_modules/embedded-postgres/**
+  - node_modules/@embedded-postgres/**
+win:
+  target: nsis
+linux:
+  target: AppImage

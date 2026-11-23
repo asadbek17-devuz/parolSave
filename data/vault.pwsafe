@@ -1,0 +1,14 @@
+{
+  "format": "pwsafe",
+  "version": 1,
+  "exportedAt": "2026-11-23T14:35:51.510Z",
+  "meta": {
+    "kdf_params": "{\"N\":131072,\"r\":8,\"p\":1,\"keylen\":32,\"maxmem\":268435456}",
+    "recovery_salt": "00i8UGAdXwt3MOBgkM78Ew==",
+    "salt": "uALsHHTO+ZDGZ2KggGb0hA==",
+    "schema_version": "1",
+    "wrapped_dek": "cGEcEhIecHgnknjc75gQ5Xmc5y7Ha3nvip6IvN5ldqNdBaNEMHPtz2ZLqTovSC8vvGxndxGwZgO1hS1g",
+    "wrapped_dek_recovery": "BmL94kNHetPqPlvRUbA54MPEt7/dRhX/VVNAUnBoxyoU9AUH+TWp1VXIgvsvEp7ALP9q5TKyn4GvIRsu"
+  },
+  "entries": []
+}
